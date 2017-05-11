@@ -1,0 +1,8 @@
+C:\Users\Brian\Documents\Lista Doble Enlazada\Lista Doble Enlazada\bin\Debug\Lista Doble Enlazada.exe
+C:\Users\Brian\Documents\Lista Doble Enlazada\Lista Doble Enlazada\bin\Debug\Lista Doble Enlazada.pdb
+C:\Users\Brian\Documents\Lista Doble Enlazada\Lista Doble Enlazada\obj\Debug\Lista Doble Enlazada.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Lista Doble Enlazada\Lista Doble Enlazada\obj\Debug\Lista_Doble_Enlazada.Form1.resources
+C:\Users\Brian\Documents\Lista Doble Enlazada\Lista Doble Enlazada\obj\Debug\Lista_Doble_Enlazada.Properties.Resources.resources
+C:\Users\Brian\Documents\Lista Doble Enlazada\Lista Doble Enlazada\obj\Debug\Lista Doble Enlazada.csproj.GenerateResource.Cache
+C:\Users\Brian\Documents\Lista Doble Enlazada\Lista Doble Enlazada\obj\Debug\Lista Doble Enlazada.exe
+C:\Users\Brian\Documents\Lista Doble Enlazada\Lista Doble Enlazada\obj\Debug\Lista Doble Enlazada.pdb
